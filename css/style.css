@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #C1DBB3;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 24px;
+    margin: auto;
+    margin-top: 5%;
+}
+ul li{
+    text-align: center;
+    margin-top: 20px;
+    list-style: none;
+}
+
+#cambur{
+    color: rgb(238, 184, 9);
+}
+#guanabana{
+    color: rgb(249, 255, 225);
+}
+#parchita{
+    color: rgb(255, 255, 79);
+}
+#tamarindo{
+    color: rgb(145, 47, 30);
+}
+#lechosa{
+    color: rgb(255, 120, 58);
+}
+#curuba{
+    color: rgb(255, 200, 81);
+}
+#semeruco{
+    color: rgb(226, 55, 55);
+}
+#mamon{
+    color:rgb(235, 139, 95);
+}
+#guayaba{
+    color: rgb(223, 65, 91);
+}
+#uchuva{
+    color: rgb(255, 151, 55);
+}
